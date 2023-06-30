@@ -1,0 +1,6 @@
+.boton{
+    color: gray !important;
+}
+.boton.active{
+color: blue !important;
+}
